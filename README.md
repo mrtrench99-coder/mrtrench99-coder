@@ -1,7 +1,4 @@
-
-
-<!--
-**mrtrench99-coder/mrtrench99-coder**# 👋 Hey there, I'm Rohit Vardhan!
+# 👋 Hey there, I'm Rohit Vardhan!
 
 Welcome to my GitHub profile! I'm a passionate Python developer and aspiring **AI/ML Engineer, Data Scientist, and Data Analyst**. I love building projects that solve real-world problems and continuously expanding my knowledge in data science and machine learning.
 
@@ -44,3 +41,4 @@ Feel free to explore my repositories, check out my projects, and don't hesitate 
 
 ---
 
+*"The best way to predict the future is to build it." - Let's build intelligent systems together!* 🚀
